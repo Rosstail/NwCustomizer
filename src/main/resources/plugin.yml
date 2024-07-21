@@ -3,6 +3,6 @@ version: '${project.version}'
 main: fr.rosstail.nwcustomizer.NwCustomizer
 api-version: '1.20'
 depend:
-  - nodewar
+  - Nodewar
 loadbefore:
-  - nodewar
+  - Nodewar
