@@ -74,7 +74,7 @@
       <dependency>
           <groupId>com.github.Rosstail</groupId>
           <artifactId>Nodewar</artifactId>
-          <version>2.1.0-API-1d2bd3a45d-1</version>
+          <version>2.1.0</version>
           <scope>provided</scope>
       </dependency>
   </dependencies>
